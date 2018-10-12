@@ -1,10 +1,10 @@
 {
-  "name": "@funjs/route-parser",
+  "name": "route-parser",
   "version": "1.2.0",
   "description": "Simple and fast functional route parser...",
   "main": "./src/index.js",
   "module": "./dist/index.js",
-  "repository": "git@github.com:fun-js/route-parser.git",
+  "repository": "https://github.com/nyby/route-parser.git",
   "author": "Mauro Junior <mauropereirajr@gmail.com>",
   "license": "MIT",
   "publishConfig": {
